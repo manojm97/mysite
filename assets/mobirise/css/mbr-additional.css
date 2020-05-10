@@ -1148,6 +1148,9 @@ section.lazy-placeholder:after {
 .cid-rYBM5CN9qy a.close:hover {
   color: #ffffff;
 }
+.cid-rYBM5CN9qy .icon-description {
+  text-align: center;
+}
 .cid-rYBM7icOOh {
   background-image: url("../../../assets/images/background1.jpg");
 }
@@ -1188,6 +1191,9 @@ section.lazy-placeholder:after {
   .cid-rYBM93bxg1 .mbr-figure {
     padding-top: 3rem;
   }
+}
+.cid-rYBM93bxg1 .mbr-section-title {
+  text-align: center;
 }
 .cid-rYBMbzRjVJ {
   background: #149dcc;
